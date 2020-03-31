@@ -43,7 +43,7 @@
 
 以下从网上摘来一张图来说明这几着之间的关系：
 
-<img src="/Users/baoguomei/kkb/frontEnd/images/SGML、XML、HTML、XHTML.jpg" width = "500" />
+<img src="https://github.com/bgm9787/frontEnd/blob/dev/images/SGML%E3%80%81XML%E3%80%81HTML%E3%80%81XHTML.jpg" width = "500" />
 
 #### 5、DTD 介绍
 
