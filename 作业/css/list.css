@@ -1,0 +1,241 @@
+.site-footer {
+    overflow: hidden;
+}
+.site-footer .footer-service {
+    padding: 27px 0;
+    border-bottom: 1px solid #e0e0e0;
+    overflow: hidden;
+}
+.site-footer .footer-links {
+    padding: 40px 0;
+    overflow: hidden;
+}
+.seckill {
+    background: #f5f5f5;
+    overflow: hidden;
+}
+.seckill .seckill-head {
+    background: #f5f5f5 url("../images/seckill-bg.jpg") 50% 0 no-repeat;
+    height: 170px;
+}
+.seckill h1 {
+    text-indent: -9999px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+.seckill .seckill-banner {
+    background: #414141;
+    margin-top: -68px;
+    height: 68px;
+    margin-bottom: 22px;
+}
+.seckill .relative {
+    position: relative;
+}
+.seckill .seckill-banner ul {
+    width: 100%;
+    /* overflow: hidden; */
+    _zoom: 1;
+    height: 68px;
+    background: #414141;
+}
+.seckill .seckill-banner .active {
+    background: #f1393a;
+}
+
+.seckill .seckill-banner li {
+    width: 20%;
+    cursor: pointer;
+    line-height: 68px;
+    height: 68px;
+    text-align: center;
+    background: #414141;
+}
+.seckill li {
+    list-style: none;
+    float: left;
+}
+.seckill .seckill-banner li a {
+    color: #fff;
+    display: inline-block;
+    *zoom: 1;
+    *display: inline;
+    line-height: 1;
+    vertical-align: middle;
+}
+.seckill .seckill-banner li em {
+    margin-left: 30px;
+    font-style: normal;
+    font-size: 18px;
+}
+.seckill .seckill-banner li span {
+    margin-left: 15px;
+    text-align: left;
+}
+.seckill .seckill-con {
+    height: 100%;
+    /* overflow: hidden; */
+}
+.seckill .seckill-con ul {
+    margin-left: -13px;
+}
+.seckill .seckill-con ul li {
+    background: #fff;
+    width: 400px;
+    height: 190px;
+    margin-left: 13px;
+    margin-bottom: 13px;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+    position: relative;
+    z-index: 2;
+}
+.seckill li {
+    list-style: none;
+    float: left;
+}
+.seckill .seckill-con ul li .seckill-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+a {
+    color: #757575;
+    text-decoration: none;
+}
+.seckill .seckill-con ul .item-box {
+    display: block;
+}
+.seckill .seckill-con ul li .img-con {
+    width: 190px;
+    height: 190px;
+    float: left;
+    margin-left: 0px !important;
+    padding-top: 0px !important;
+    background-color: #e9e9e9;
+    border: 0 none;
+    overflow: hidden;
+    _zoom: 1;
+}
+.seckill .seckill-con ul li span {
+    display: block;
+}
+.seckill .seckill-con ul li img {
+    width: 100%;
+    height: 190px;
+    display: block;
+    padding: 0;
+    border-style: none;
+}
+.seckill .seckill-con ul li .pro-con {
+    margin-left: 210px;
+    width: 180px;
+    padding-top: 30px;
+}
+
+.seckill .seckill-con ul li span {
+    display: block;
+}
+.seckill .seckill-con ul li .pro-con .name {
+    font-size: 16px;
+    color: #333;
+    height: 16px;
+    overflow: hidden;
+    _zoom: 1;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    line-height: 16px;
+}
+.seckill .seckill-con ul li .pro-con .desc {
+    color: rgba(0,0,0,0.54);
+    margin-top: 7px;
+    font-size: 12px;
+    line-height: 16px;
+    height: 32px;
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    _zoom: 1;
+}
+.seckill .seckill-con ul li .pro-con .process {
+    width: 146px;
+    height: 5px;
+    position: relative;
+    background: #f5f5f5;
+}
+.seckill .seckill-con ul li span {
+    display: block;
+}
+.seckill .seckill-con ul li .pro-con .process span {
+    display: block;
+    background: #f1393a;
+    -webkit-transition: width 1s;
+    transition: width 1s;
+    height: 100%;
+}
+
+.seckill .seckill-con ul li span {
+    display: block;
+}
+.seckill .seckill-con ul li .pro-con .process em {
+    font-style: normal;
+    position: absolute;
+    right: -35px;
+    top: -2px;
+    line-height: 1;
+    font-size: 12px;
+    color: rgba(0,0,0,0.54);
+}
+.seckill .seckill-con ul li .pro-con .price {
+    font-size: 16px;
+    color: #f1393a;
+    line-height: 1;
+    margin-top: 14px;
+}
+
+.seckill .seckill-con ul li span {
+    display: block;
+}
+.seckill .seckill-con ul li .pro-con .price del {
+    margin-left: 10px;
+    font-size: 12px;
+}
+.seckill .seckill-con ul li .pro-con .price em, .seckill .seckill-con ul li .pro-con .price del {
+    font-size: 14px;
+    color: rgba(0,0,0,0.54);
+    font-style: normal;
+}
+.seckill .seckill-con ul li .pro-con .person {
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: 58px;
+    color: rgba(0,0,0,0.54);
+}
+.seckill .seckill-con ul li .btn-disabled {
+    background: #f2f2f2 !important;
+    border-color: #f2f2f2 !important;
+}
+
+.seckill .seckill-con ul li .btn {
+    font-size: 14px;
+    position: absolute;
+    right: 70px;
+    bottom: 25px;
+    z-index: 5;
+}
+.seckill .notic {
+    padding-bottom: 35px;
+    font-size: 12px;
+    color: rgba(0,0,0,0.27);
+    margin-top: 100px;
+}
