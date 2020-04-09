@@ -1,5 +1,19 @@
 body {
 }
+
+.site-topbar .sep {
+    margin: 0 .2em;
+    color: #424242;
+}
+.site-header .header-nav a{
+    position: relative;
+    left: -120px;
+    margin-right:16px;
+
+ }
+ .xm-product-box .nav-bar .right .separator, .xm-product-box .nav-bar .left .separator {
+    margin: 0 .25em;
+}
 .footer {
     margin-top: 30px;
     background-color: #333;
@@ -58,7 +72,7 @@ body {
 }
 .xm-product-box .nav-bar .right .separator, .xm-product-box .nav-bar .left .separator {
     margin: 0 .25em;
-    color: #212121;
+    
 }
 .xm-product-box .nav-bar .right a, .xm-product-box .nav-bar .left a {
     color: #616161;
@@ -70,10 +84,6 @@ body {
     color: #e0e0e0;
 }
 
-.xm-product-box .nav-bar .right .separator, .xm-product-box .nav-bar .left .separator {
-    margin: 0 .25em;
-    color: #212121;
-}
 
 .xm-buyBox {
     margin-bottom: 50px;
@@ -119,6 +129,7 @@ body {
 }
 .xm-buyBox .aftersale-company {
     margin-bottom: 0;
+    margin-top: 1em;
     color: #ff6700;
 }
 .xm-buyBox .pro-info .pro-price {
